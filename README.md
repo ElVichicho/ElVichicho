@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Vicente Sampson 👋
 
-<!--
-**ElVichicho/ElVichicho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Técnico Analista Programador y estudiante de Ingeniería en Informática,
+próximo a egresar. Desarrollo aplicaciones web y sigo formándome
+en frontend y aseguramiento de la calidad (QA).
 
-Here are some ideas to get you started:
+### Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Next.js · React · TypeScript · Node.js · PostgreSQL · Supabase
+
+### Proyectos
+
+| Proyecto | Descripción | Código |
+| --- | --- | --- |
+| Motora | Gestión de talleres automotrices y seguimiento de trabajos para clientes. | Privado |
+| [Ensamblia](https://github.com/ElVichicho/Ensamblia) | Asistente con IA para elegir componentes de PC según uso, presupuesto y compatibilidad. | Público |
+
+[Portafolio y CV](https://vsampson-dev.vercel.app/) · [Contacto](mailto:vichosampson@gmail.com)
